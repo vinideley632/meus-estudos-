@@ -4,5 +4,5 @@ var
 inicio
     escreva ("Qual e o Seu Nome : ")
     leia (nome)
-    escreva ("Ola " , nome , " E um Prazer te Conhecer !!")
+    escreva ("Ola " , nome, " E um Prazer te Conhecer !!")
 fimalgoritmo
